@@ -29,17 +29,19 @@ PENTRU A FI FOLOSIT NUMAI ÎN ACESTE CAZURI!!!
 
 Mai jos sunt câteva fotografii care să vă ajute cu programarea și să vă facă o idee despre cum arată.
 
+![U L T APRS UI  lb romana1](https://github.com/user-attachments/assets/a7eadd31-f2d4-477d-9c07-bb24239c4ba0)
+![U L T APRS UI  lb romana](https://github.com/user-attachments/assets/d3e86e54-82ea-4f89-9e56-1e32bb0a2ad8)
+![U L T APRS UI  lb romana1](https://github.com/user-attachments/assets/3251012d-46d1-426d-ab45-580026f054f7)
+![U L T APRS UI  lb romana](https://github.com/user-attachments/assets/11b5dd64-92e8-4f50-8787-652a2effa1a8)
+![SOS LORA2](https://github.com/user-attachments/assets/08fcdc63-d5b7-4e62-9ce8-da1d65ed402d)
+![SOS LORA1](https://github.com/user-attachments/assets/cef6c9ed-857a-4eb7-9e5e-6c01af33df6a)
+![SOS LORA](https://github.com/user-attachments/assets/16d1cb12-4f0d-4bdb-8a99-40ea3f3594da)
 
-![U L T APRS eng](https://github.com/user-attachments/assets/5838fe9e-8372-4dcb-8730-70c88f1f8433)
-![tr2](https://github.com/user-attachments/assets/a9e81c51-e7e6-46f2-b86b-476b5297fcb3)
-![SOS LORA2](https://github.com/user-attachments/assets/da2f596e-22b1-46c9-8f9c-61d892160da9)
-![tr1](https://github.com/user-attachments/assets/dce55a15-4674-4d7b-893e-46a95c55c94b)
-![U L T APRS UI  lb romana](https://github.com/user-attachments/assets/f4543343-4ea8-4941-a1e2-319f577e30a2)
-![flash2](https://github.com/user-attachments/assets/3fc19549-c6f1-4d7d-b18f-0c2b08c4c2a6)
-![flash6 CONNECT IP](https://github.com/user-attachments/assets/87a6d705-e252-4931-bf52-1cad7f88a45b)
-![flash4 START](https://github.com/user-attachments/assets/cd102505-88e3-4168-a6e0-2c8f4f196308)
-![flash3 ERASE](https://github.com/user-attachments/assets/a026a6db-30d1-4c6a-a778-a738c528a7f0)
-![flash1](https://github.com/user-attachments/assets/f2743155-4814-46c7-b8de-79ff542b605a)
-![SOS LORA1](https://github.com/user-attachments/assets/5ac7f4ae-3d24-4e22-a09b-2442df76a027)
-![SOS LORA](https://github.com/user-attachments/assets/d55ace1e-915d-4359-8be2-acd9a0dd9ef6)
-![flash5 CONNECT WIFI](https://github.com/user-attachments/assets/8c8b799b-4233-4572-a4a6-25eb345f305d)
+![flash1](https://github.com/user-attachments/assets/6f13c5a4-f2cf-4f78-84c5-1e79fc117442)
+
+![flash3 ERASE](https://github.com/user-attachments/assets/cfcfccc3-f61a-423b-ab16-07b538244d2b)
+![flash4 START](https://github.com/user-attachments/assets/786ab466-61b0-458e-a9f8-a768f3347339)
+![flash2](https://github.com/user-attachments/assets/9e3f3d48-78b0-49a5-8b6a-92b726be42de)
+
+![flash5 CONNECT WIFI](https://github.com/user-attachments/assets/2ba2e772-0174-4fea-a74a-f5f7bd4cee74)
+![flash6 CONNECT IP](https://github.com/user-attachments/assets/4204e1c0-c381-47d9-88a6-076a4571d96e)
